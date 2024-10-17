@@ -1,0 +1,14 @@
+C:\Users\nogos\source\repos\Billeterie\Billeterie\bin\Debug\net8.0\Billeterie.exe
+C:\Users\nogos\source\repos\Billeterie\Billeterie\bin\Debug\net8.0\Billeterie.deps.json
+C:\Users\nogos\source\repos\Billeterie\Billeterie\bin\Debug\net8.0\Billeterie.runtimeconfig.json
+C:\Users\nogos\source\repos\Billeterie\Billeterie\bin\Debug\net8.0\Billeterie.dll
+C:\Users\nogos\source\repos\Billeterie\Billeterie\bin\Debug\net8.0\Billeterie.pdb
+C:\Users\nogos\source\repos\Billeterie\Billeterie\obj\Debug\net8.0\Billeterie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nogos\source\repos\Billeterie\Billeterie\obj\Debug\net8.0\Billeterie.AssemblyInfoInputs.cache
+C:\Users\nogos\source\repos\Billeterie\Billeterie\obj\Debug\net8.0\Billeterie.AssemblyInfo.cs
+C:\Users\nogos\source\repos\Billeterie\Billeterie\obj\Debug\net8.0\Billeterie.csproj.CoreCompileInputs.cache
+C:\Users\nogos\source\repos\Billeterie\Billeterie\obj\Debug\net8.0\Billeterie.dll
+C:\Users\nogos\source\repos\Billeterie\Billeterie\obj\Debug\net8.0\refint\Billeterie.dll
+C:\Users\nogos\source\repos\Billeterie\Billeterie\obj\Debug\net8.0\Billeterie.pdb
+C:\Users\nogos\source\repos\Billeterie\Billeterie\obj\Debug\net8.0\Billeterie.genruntimeconfig.cache
+C:\Users\nogos\source\repos\Billeterie\Billeterie\obj\Debug\net8.0\ref\Billeterie.dll
